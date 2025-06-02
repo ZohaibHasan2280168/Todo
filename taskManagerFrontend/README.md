@@ -33,26 +33,26 @@ Feel free to explore and test the app and API!
 
 ### Application (CRUD operations in action)
 1. Add Task screen to create new tasks.  
-![Add Task](./assets/pic1.PNG)
+![Add Task](./assets/1.PNG)
 
 2. Home screen showing the list of tasks.  
-![Home Screen](./assets/pic2.PNG)
+![Home Screen](./assets/2.PNG)
 
 3. Edit Task screen to update task details.  
-![Edit Task](./assets/pic3.PNG)
+![Edit Task](./assets/3.PNG)
 
 4. Task item with delete option to remove tasks.  
-![Delete Task](./assets/pic4.PNG)
+![Delete Task](./assets/4.PNG)
 
 ### Postman (API testing for CRUD endpoints)
 5. GET request to fetch all tasks.  
-![GET Tasks](./assets/pic5.PNG)
+![GET Tasks](./assets/5.PNG)
 
 6. POST request to add a new task.  
-![POST Task](./assets/pic6.PNG)
+![POST Task](./assets/6.PNG)
 
 7. PUT request to update a task.  
-![PUT Task](./assets/pic7.PNG)
+![PUT Task](./assets/7.PNG)
 
 8. DELETE request to remove a task.  
-![DELETE Task](./assets/pic8.PNG)
+![DELETE Task](./assets/8.PNG)
